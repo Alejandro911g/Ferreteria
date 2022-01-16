@@ -18,7 +18,7 @@ header---------------------
 
 }
 
-.conteiner-fliud li {
+#header .conteiner-fliud li {
     display: flex;
     flex-direction: row-reverse;
 
