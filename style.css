@@ -1,3 +1,20 @@
+/* General */
 body {
     background-color: #ffffff;
+}
+
+/* Barra de navegación */
+
+.bg-light {
+    background-color: #ffffff;
+}
+
+.navbar-brand img {
+    height: 100px;
+    width: 241px;
+}
+
+.conteiner-fliud li {
+    display: flex;
+    flex-direction: row-reverse;
 }
