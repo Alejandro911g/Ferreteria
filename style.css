@@ -1,20 +1,35 @@
-/* General */
+/* -------------------------
+General --------------------
+*/
 body {
     background-color: #ffffff;
 }
 
-/* Barra de navegación */
-
-.bg-light {
-    background-color: #ffffff;
+/* ----------------------
+header---------------------
+ */
+#header {
+    background-color: white;
 }
 
 .navbar-brand img {
     height: 100px;
     width: 241px;
+    
 }
 
 .conteiner-fliud li {
     display: flex;
     flex-direction: row-reverse;
+
+}
+
+#header button {
+    background-color: #d9232d;
+    border-radius: 4px;
+    padding: 8px 25px;
+    margin left: 30px;
+    font-weight: 400;
+    color: #ffffff;
+    border: 0;
 }
