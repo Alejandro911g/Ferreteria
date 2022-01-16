@@ -15,7 +15,7 @@ header---------------------
 .navbar-brand img {
     height: 100px;
     width: 241px;
-    
+
 }
 
 .conteiner-fliud li {
@@ -33,3 +33,24 @@ header---------------------
     color: #ffffff;
     border: 0;
 }
+
+
+/*--------------------------------
+ Carrusel 1 ---------------------
+ */
+
+ #carrusel1 .carousel-inner {
+    box-sizing: border-box;
+    height: 850px;
+    width: 100%;
+ }
+
+ #carrusel1 .carousel-inner img {
+     box-sizing: border-box;
+     height: 850px;
+     width: 100%;
+ }
+
+ #carrusel1 .d-md-block h5 {
+     bottom: 50px;
+ }
