@@ -49,8 +49,17 @@ header---------------------
      box-sizing: border-box;
      height: 850px;
      width: 100%;
+     opacity: 1;
  }
 
- #carrusel1 .d-md-block h5 {
-     bottom: 
+ #carrusel1 h5 {
+     padding-bottom: 10px;
+     font-size: 48px;
+    font-weight: 700;
+    color: white;
+ }
+
+ #carrusel1 p {
+     color: white;
+     padding-bottom: 365px;
  }
