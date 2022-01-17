@@ -10,6 +10,8 @@ header---------------------
  */
 #header {
     background-color: white;
+    padding-left: 73px;
+    padding-right: 73px;
 }
 
 .navbar-brand img {
@@ -59,6 +61,7 @@ header---------------------
     color: white;
  }
 
+
  #carrusel1 p {
      color: white;
      padding-bottom: 365px;
@@ -71,9 +74,9 @@ header---------------------
  */
 
  #footer {
-     background-color: #00b0f0;
+     background-color: white;
      padding: 0 0 30px 0;
-     color: #ffffff;
+     color: #266a98;
      font-size: 14px;
  }
 
