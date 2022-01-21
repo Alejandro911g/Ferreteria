@@ -36,7 +36,6 @@ header---------------------
     border: 0;
 }
 
-
 /*--------------------------------
  Carrusel 1 ---------------------
  */
@@ -55,19 +54,17 @@ header---------------------
  }
 
  #carrusel1 h5 {
-     padding-bottom: 10px;
+     padding-bottom: 0vw;
      font-size: 48px;
     font-weight: 700;
-    color: white;
+    color: rgb(255, 255, 255);
  }
 
 
  #carrusel1 p {
      color: white;
-     padding-bottom: 365px;
+     padding-bottom: 19vw;
  }
-
-
 
  /* ---------------------------
  Footer ----------------------
@@ -83,4 +80,9 @@ header---------------------
  #footer img {
     height: 100px;
     width: 241px;
+ }
+
+ .footer-info1 {
+     padding-top: 40px;
+     padding-left: 300px;
  }
