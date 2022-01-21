@@ -66,6 +66,20 @@ header---------------------
      padding-bottom: 19vw;
  }
 
+/*--------------------------------
+ Segundo carrusel----------------------
+  */
+
+#carouselExampleSlidesOnly {
+    width: 350px;
+    height: 350px;
+}
+
+#carouselExampleSlidesOnly img {
+    width: 350px;
+    height: 200px;
+}
+
  /* ---------------------------
  Footer ----------------------
  */
