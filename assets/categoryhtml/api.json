@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 218,
+        "id": 1,
+        "title": "Saco Holcim",
+        "thumbnailUrl": "https://cdn.shopify.com/s/files/1/2163/6521/products/HOLCIM-Fuerte_580x.png?v=1566067481"
+    },
+    {
+        "precio": 85,
+        "id": 2,
+        "title": "Calidra",
+        "thumbnailUrl": "https://cdn.homedepot.com.mx/productos/568409/568409-d.jpg"
+    },
+    {
+        "precio": 210,
+        "id": 3,
+        "title": "PegaPiso",
+        "thumbnailUrl": "https://ferrosa.mx/wp-content/uploads/2021/03/PEG-PP.jpg"
+    },
+    {
+        "precio": 162,
+        "id": 4,
+        "title": "Mortero",
+        "thumbnailUrl": "https://distribuidorpanelrey.com/wp-content/uploads/2019/07/mortero-maestro-holcim-apasco-distribuidor-panel-rey.png"
+    },
+    {
+        "precio": 116,
+        "id": 5,
+        "title": "Marmolina No.1",
+        "thumbnailUrl": "https://www.construrama.com/medias/?context=bWFzdGVyfGltYWdlc3wzNTM0M3xpbWFnZS9qcGVnfGltYWdlcy9oYTUvaDRjLzg4OTEwMzc4NDM0ODYuanBnfDhlZTAxNTgxMzFjNzhmZTNkYTY2Mjk2YTMxMWMxNmU5ZDI2NTIwN2I5MjFhNzVhYzU3MDVjNTdkMjE4NGU2NDE"
+    },
+    {
+        "precio": 115,
+        "id": 6,
+        "title": "Nixtacal",
+        "thumbnailUrl": "https://www.todoparatucasa.mx/wp-content/uploads/2019/09/nixtacal_25Kg_Calhidra.png"
+    }
+]
